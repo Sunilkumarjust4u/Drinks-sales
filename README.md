@@ -109,3 +109,5 @@ The built-in calendar supports time-intelligence features out of the box.
 
 
 <img width="410" alt="image" src="https://github.com/user-attachments/assets/f9318c02-cd96-4e3e-8213-919ad16b7476" />
+<img width="319" alt="image" src="https://github.com/user-attachments/assets/5f55803b-0f34-4fe6-9d28-00c0b48b03a6" />
+
